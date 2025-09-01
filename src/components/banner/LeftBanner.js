@@ -2,12 +2,12 @@ import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import {
   FaFacebookF,
-  FaTwitter,
   FaLinkedinIn,
-  FaReact,
   FaGithub,
+  FaHtml5,
+  FaInstagram,
 } from "react-icons/fa";
-import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
+import { SiFigma, SiCanva, SiCss3 } from "react-icons/si";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
@@ -44,22 +44,22 @@ const LeftBanner = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
-              <span className="bannerIcon">
-                <FaGithub />
-              </span>
-            </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://web.facebook.com/profile.php?id=61574080899233" target="blank">
               <span className="bannerIcon">
                 <FaFacebookF />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://web.facebook.com/profile.php?id=61574080899233">
               <span className="bannerIcon">
-                <FaTwitter />
+                <FaGithub />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://www.instagram.com/nafiuislam_.1253/?fbclid=IwY2xjawMizJVleHRuA2FlbQIxMABicmlkETFvTnY3eE4yQ3A1bEZjbDh6AR6WOkd9bw91vBF3IIF5muUhbg3vc5GQqJn_1prfiJTz6BdfKp0T5iCrFfhNFw_aem_eWdmfNVKkE5hjcTCqnp8DQ#" target="blank">
+              <span className="bannerIcon">
+                <FaInstagram />
+              </span>
+            </a>
+            <a href="https://www.linkedin.com/in/md-nafiu-islam-nafiu-0a7439366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>
@@ -72,13 +72,13 @@ const LeftBanner = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-              <FaReact />
+              <FaHtml5 />
             </span>
             <span className="bannerIcon">
-              <SiNextdotjs />
+              <SiCanva />
             </span>
             <span className="bannerIcon">
-              <SiTailwindcss />
+              <SiCss3 />
             </span>
             <span className="bannerIcon">
               <SiFigma />
