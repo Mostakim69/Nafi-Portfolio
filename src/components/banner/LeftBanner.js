@@ -3,9 +3,9 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import {
   FaFacebookF,
   FaLinkedinIn,
-  FaGithub,
   FaHtml5,
   FaInstagram,
+  FaTwitter,
 } from "react-icons/fa";
 import { SiFigma, SiCanva, SiCss3 } from "react-icons/si";
 
@@ -49,19 +49,19 @@ const LeftBanner = () => {
                 <FaFacebookF />
               </span>
             </a>
-            <a href="https://web.facebook.com/profile.php?id=61574080899233">
+            <a href="https://www.linkedin.com/in/md-nafiu-islam-nafiu-0a7439366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
               <span className="bannerIcon">
-                <FaGithub />
+                <FaLinkedinIn />
+              </span>
+            </a>
+            <a href="https://x.com/Nafiuisla76974">
+              <span className="bannerIcon">
+                <FaTwitter />
               </span>
             </a>
             <a href="https://www.instagram.com/nafiuislam_.1253/?fbclid=IwY2xjawMizJVleHRuA2FlbQIxMABicmlkETFvTnY3eE4yQ3A1bEZjbDh6AR6WOkd9bw91vBF3IIF5muUhbg3vc5GQqJn_1prfiJTz6BdfKp0T5iCrFfhNFw_aem_eWdmfNVKkE5hjcTCqnp8DQ#" target="blank">
               <span className="bannerIcon">
                 <FaInstagram />
-              </span>
-            </a>
-            <a href="https://www.linkedin.com/in/md-nafiu-islam-nafiu-0a7439366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-              <span className="bannerIcon">
-                <FaLinkedinIn />
               </span>
             </a>
           </div>
