@@ -13,10 +13,15 @@ const Features = () => {
     >
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
+
+        <Card
+          title="UX Design"
+          des="UX Design ensures simple, consistent, accessible, and responsive experiences with clear navigation and positive user impact."
+          icon={<SiAntdesign />}
+        />
         <Card
           title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Business Strategy is a long-term plan that defines how a company achieves its goals, gains a competitive advantage, and ensures sustainable growth."
          
         />
         <Card
@@ -37,12 +42,7 @@ const Features = () => {
           hic consequuntur eum repellendus ad."
           icon={<FaMobile />}
         />
-        <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiAntdesign />}
-        />
+        
         <Card
           title="Hosting Websites"
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
