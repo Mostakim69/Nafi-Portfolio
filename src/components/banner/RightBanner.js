@@ -8,7 +8,7 @@ const RightBanner = () => {
         src='https://i.postimg.cc/3rD3f2Ct/539614269-1257403539733227-2009438107937016232-n.jpg'
         alt="bannerImg"
       />
-      <div className="absolute bottom-0 w-[350px] h-[300px] lgl:w-[400px] lgl:h-[390px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex justify-center items-center"></div>
+      <div className="absolute bottom-0 w-[350px] h-[340px] lgl:w-[400px] lgl:h-[400px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex justify-center items-center"></div>
     </div>
   );
 }
