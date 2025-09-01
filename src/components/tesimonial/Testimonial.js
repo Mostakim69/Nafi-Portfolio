@@ -103,14 +103,14 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
+                  src='https://i.postimg.cc/j22Hbttr/image.jpg'
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Md Mostakim Hosen</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -125,7 +125,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2025 - Aug 30, 2025 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -176,7 +176,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2024 - Aug 30, 2024 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -212,7 +212,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Mr Atikur Rahman</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -227,7 +227,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2025 - Aug 30, 2025 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
