@@ -11,7 +11,7 @@ import { SiFigma, SiCanva, SiCss3 } from "react-icons/si";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Professional Coder.", "Figma Designer.", "UI-UX Designer."],
+    words: ["Grphics Designer", "Figma Designer.", "UI-UX Designer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -54,7 +54,7 @@ const LeftBanner = () => {
                 <FaLinkedinIn />
               </span>
             </a>
-            <a href="https://x.com/Nafiuisla76974">
+            <a href="https://x.com/Nafiuisla76974" target="blank">
               <span className="bannerIcon">
                 <FaTwitter />
               </span>
