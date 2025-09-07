@@ -16,14 +16,13 @@ const ContactLeft = () => {
           UI/UX Designer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          Let’s work together! Feel free to reach out for collaborations, freelance projects, or just to say hello.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+880 1711111111</span>
+          Phone: <span className="text-lightText">+8801708939764</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">example@gmail.com</span>
+          Email: <span className="text-lightText">mdnafiuislam21@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
