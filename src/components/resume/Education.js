@@ -24,7 +24,7 @@ const Education = () => {
           />
           <ResumeCard
             title="Secondary School Education"
-            subTitle="Kingstar Secondary School (2019 - 2020)"
+            subTitle="Demo High School (2019 - 2020)"
             result="5.00/5"
             des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
           />
@@ -45,10 +45,10 @@ const Education = () => {
             des="The Bangladesh economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
           />
           <ResumeCard
-            title="Front-end Developer"
-            subTitle="Nike - (2020 - 2023)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            title="Graphic Designer"
+            subTitle="Nike - (2023 - 2024)"
+            result="Rajshahi"
+            des="The Rajshahi economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
           />
         </div>
       </div>
